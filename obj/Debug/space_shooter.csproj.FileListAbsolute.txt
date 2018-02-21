@@ -1,0 +1,10 @@
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\bin\Debug\cemal.exe.config
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\bin\Debug\cemal.exe
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\bin\Debug\cemal.pdb
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\obj\Debug\space_shooter.csprojResolveAssemblyReference.cache
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\obj\Debug\cemal.MainPencere.resources
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\obj\Debug\cemal.Properties.Resources.resources
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\obj\Debug\space_shooter.csproj.GenerateResource.Cache
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\obj\Debug\space_shooter.csproj.CoreCompileInputs.cache
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\obj\Debug\cemal.exe
+C:\Users\Imperio\Desktop\CE\Projeler\Nesneye Dayalı Programlama\b161210104_Proje\obj\Debug\cemal.pdb
